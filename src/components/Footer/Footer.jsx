@@ -34,14 +34,14 @@ function Footer() {
             <i className="bx bxl-linkedin"></i>
           </a>
           <a
-            href="https://github.com/Mahmadsabir"
+            href="https://github.com/sabirbm"
             className="footer__social-link"
             target="_blank"
           >
             <i className="bx bxl-github"></i>
           </a>
           <a
-            href="https://www.instagram.com/sabir___bm"
+            href="https://www.instagram.com/sabirraza___q"
             className="footer__social-link"
             target="_blank"
           >

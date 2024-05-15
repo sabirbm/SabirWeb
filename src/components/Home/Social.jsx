@@ -6,10 +6,10 @@ function Social() {
         <a href="https://www.linkedin.com/in/sabir-badami-3121021b7" className="home__social-icon" target="_blank">
         <i className="uil uil-linkedin-alt"></i>
         </a>
-        <a href="https://github.com/Mahmadsabir" className="home__social-icon" target="_blank">
+        <a href="https://github.com/sabirbm" className="home__social-icon" target="_blank">
             <i className="uil uil-github-alt"></i>
         </a>
-        <a href="https://www.instagram.com/sabir___bm" className="home__social-icon" target="_blank">
+        <a href="https://www.instagram.com/sabirraza___q" className="home__social-icon" target="_blank">
             <i className="uil uil-instagram"></i>
         </a>
     </div>
