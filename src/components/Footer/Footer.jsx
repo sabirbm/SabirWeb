@@ -49,7 +49,7 @@ function Footer() {
           </a>
         </div>
         <span className="footer__copy"> 
-        &#168; Crypticalcodre. ALL rigths reserved</span>
+        &#168;ALL rigths reserved</span>
       </div>
     </footer>
   );
