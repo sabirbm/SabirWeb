@@ -2,7 +2,7 @@
   "name": "SabirWeb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mahmadsabir.github.io",
+  "homepage": "https://sabirbm.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
