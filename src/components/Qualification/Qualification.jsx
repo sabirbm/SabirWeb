@@ -23,7 +23,7 @@ function Qualification() {
                     qualification__icon"></i>Education
                 </div>
                 <div className={toggleState === 2 ? 
-                    "qualification__button qualification__active button--flex" 
+                    "qualification__button qualification__active button--flex box" 
                     : "qualification__button  button--flex"}
                     onClick={()=>{toggleTab(2)}}>
                     <i className="uil uil-briefcase-alt 
