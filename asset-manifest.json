@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SabirWeb/static/css/main.a6845a82.css",
-    "main.js": "/SabirWeb/static/js/main.0ee00c61.js",
+    "main.css": "/SabirWeb/static/css/main.aa0273f6.css",
+    "main.js": "/SabirWeb/static/js/main.fe7f682e.js",
     "static/js/787.6a01babc.chunk.js": "/SabirWeb/static/js/787.6a01babc.chunk.js",
     "static/media/profile.jpeg": "/SabirWeb/static/media/profile.11971130331905955317.jpeg",
     "static/media/about.jpg": "/SabirWeb/static/media/about.bafac0f11f5477949353.jpg",
@@ -11,12 +11,12 @@
     "static/media/testimonial2.png": "/SabirWeb/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/SabirWeb/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/SabirWeb/index.html",
-    "main.a6845a82.css.map": "/SabirWeb/static/css/main.a6845a82.css.map",
-    "main.0ee00c61.js.map": "/SabirWeb/static/js/main.0ee00c61.js.map",
+    "main.aa0273f6.css.map": "/SabirWeb/static/css/main.aa0273f6.css.map",
+    "main.fe7f682e.js.map": "/SabirWeb/static/js/main.fe7f682e.js.map",
     "787.6a01babc.chunk.js.map": "/SabirWeb/static/js/787.6a01babc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6845a82.css",
-    "static/js/main.0ee00c61.js"
+    "static/css/main.aa0273f6.css",
+    "static/js/main.fe7f682e.js"
   ]
 }
