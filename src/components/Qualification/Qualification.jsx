@@ -20,7 +20,7 @@ function Qualification() {
                     : "qualification__button  button--flex"}
                     onClick={()=>{toggleTab(1)}}>
                     <i className="uil uil-graduation-cap 
-                    qualification__icon"></i>Education
+                    qualification__iconz"></i>Education
                 </div>
                 <div className={toggleState === 2 ? 
                     "qualification__button qualification__active button--flex" 

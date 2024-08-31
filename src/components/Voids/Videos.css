@@ -1,0 +1,135 @@
+/* .video__container{
+    /* grid-template-columns: repeat(2, 350px);
+    column-gap: 3rem; */
+    /* justify-content: center;
+} */ 
+.video__content{
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 2rem;
+    border-radius: 1.25rem;
+}
+
+.video__title{
+    font-size: var(--h2-font-size);
+    font-weight: var(--font-medium);
+    text-align: left;
+    margin-bottom: var(--mb-0-5);
+}
+
+.video__box{
+    display: flex;
+    justify-content: left;
+}
+
+.video__group{
+    display: grid;
+    align-items: flex-start;
+    row-gap: .5rem;
+}
+.video__group_c{
+    display: grid;
+    grid-template-columns: repeat(5, 100px);
+    align-items: flex-start;
+    column-gap: 5rem;
+}
+.video__data{
+    display: flex;
+    column-gap: 1rem;
+}
+
+.video .bxl-youtube{
+    font-size: 1.2rem;
+    color: var( --title-color);
+    margin-left: .5rem;
+}
+
+.video__name{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    line-height: 18px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.3rem;
+}
+
+.video__level{
+    font-size: var(--smaller-font-size);
+}
+
+.video__group_list{
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-normal);
+}
+
+.video__button {
+    display: inline-block;
+    background-color: var(--title-color);
+    color: var(--container-color);
+    padding: .7rem 1.5rem;
+    border-radius: 1rem;
+    font-weight: var(--font-medium);
+  }
+  
+.video__button--flex {
+    display: inline-flex;
+    align-items: center;
+  }
+
+
+  .video__group ul{ 
+    list-style-type: disc;
+} /*for bullet list */
+
+
+.small.bx.bxl-youtube{
+    color: var(--container-color);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+    .video__container{
+        grid-template-columns: max-content;
+        row-gap: 2rem;
+    }
+}
+.video__group ul{ 
+    list-style-type: disc;
+} /*for bullet list */
+
+
+/* For medium devices */
+@media screen and (max-width: 576px) {
+    .video__container{
+        grid-template-columns: 1fr;
+    }
+    .video__content{
+        padding: 1.5rem;
+    }
+    .video__responsive{
+        display: none;
+    }
+  
+}
+.video__group ul{ 
+    list-style-type: disc;
+} /*for bullet list */
+
+
+  /* For small devices */
+@media screen and (max-width: 350px) {
+    .video__box{
+        column-gap: 1.25rem;
+    }
+    .video__name{
+        font-size: var(--small-font-size);
+    }
+
+}
+.video__group ul{ 
+    list-style-type: disc;
+} /*for bullet list */
+
+
+  
+  
