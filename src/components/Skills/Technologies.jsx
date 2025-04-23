@@ -1,16 +1,16 @@
 import React from 'react'
 
-function FrontEnd() {
+function Technologies() {
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Frontend Developer</h3>
+        <h3 className="skills__title">Frameworks& Technologies</h3>
         <div className="skills__box">
             <div className="skills__group">
 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">HTML</h3>
+                    <h3 className="skills__name">ReactJS</h3>
                     <span className="skills__level">Advance</span>
                 </div>
                 </div>
@@ -18,15 +18,15 @@ function FrontEnd() {
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">CSS</h3>
-                    <span className="skills__level">Advance</span>
+                    <h3 className="skills__name">Microservices</h3>
+                    <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">JavaScript</h3>
+                    <h3 className="skills__name">PostMan</h3>
                     <span className="skills__level">Advance</span>
                 </div>
                 </div>
@@ -37,7 +37,7 @@ function FrontEnd() {
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">React</h3>
+                    <h3 className="skills__name">Spring Boot</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -45,8 +45,8 @@ function FrontEnd() {
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Express</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name"> REST/SOAP API</h3>
+                    <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
@@ -64,4 +64,4 @@ function FrontEnd() {
   )
 }
 
-export default FrontEnd
+export default Technologies

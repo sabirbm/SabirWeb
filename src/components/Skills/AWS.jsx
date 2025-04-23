@@ -1,16 +1,16 @@
 import React from 'react'
 
-function BackEnd() {
+function AWS() {
   return (
     <div className="skills__content">
-        <h3 className="skills__title">Programming Languages</h3>
+        <h3 className="skills__title">Cloud Services</h3>
         <div className="skills__box">
             <div className="skills__group">
 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Java</h3>
+                    <h3 className="skills__name">AWS EC2</h3>
                     <span className="skills__level">Advance</span>
                 </div>
                 </div>
@@ -18,48 +18,50 @@ function BackEnd() {
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Advance</span>
+                    <h3 className="skills__name">AWS Lambda</h3>
+                    <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Python</h3>
+                    <h3 className="skills__name">AWS RDS,VPC</h3>
                     <span className="skills__level">Advance</span>
                 </div>
                 </div>
             </div>
+
             <div className="skills__group">
                 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">JavaScript</h3>
-                    <span className="skills__level">Advance</span>
+                    <h3 className="skills__name">AWS S3 Bucket</h3>
+                    <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">MySQL</h3>
-                    <span className="skills__level">Advance</span>
+                    <h3 className="skills__name"> AWS IAM</h3>
+                    <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
                 <i className='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">CSS</h3>
+                    <h3 className="skills__name">AWS CloudWatch</h3>
                     <span className="skills__level">Advance</span>
                 </div>
                 </div>
+                
             </div>
         </div>
     </div>
   )
 }
 
-export default BackEnd
+export default AWS

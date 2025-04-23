@@ -79,9 +79,11 @@ function Qualification() {
 
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active"
                 : "qualification__content"}>
+                    
+                    
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Program Analyst trainee</h3>
+                            <h3 className="qualification__title">Programmer Analyst</h3>
                             <span className="qualification__subtitle">Cognizant - India </span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i>2023 - Present
@@ -107,6 +109,10 @@ function Qualification() {
                             </div>
                         </div>
                     </div>
+
+                    
+
+                    
 
                     {/* <div className="qualification__data">
                         <div>

@@ -11,7 +11,7 @@ import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import ScrollUps from './components/Scrollup/ScrollUps';
 import Project from './components/Project/Project';
-
+import Projects from './components/New/Projects';
 function App() {
   return (
     <div className="App">
@@ -20,7 +20,8 @@ function App() {
         <Home />
         <About />
         {/* <Voids /> */}
-        <Project />
+        {/* <Projects /> */}
+        {/* <Project /> */}
         <Skills />
         <Services />
         <Qualification />        

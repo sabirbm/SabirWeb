@@ -1,8 +1,10 @@
 import React from 'react'
 import './Skills.css'
+import AWS from './AWS'
+import Pega from './Pega'
+import Technologies from './Technologies'
 import BackEnd from './BackEnd'
-import FrontEnd from './FrontEnd'
-import Technology from './Technology'
+
 
 function Skills() {
   return (
@@ -10,9 +12,10 @@ function Skills() {
         <h2 className="section__title">Skills</h2>
         <span className="section__subtitle">My technical level</span>
         <div className="skills__container container grid">
-            <FrontEnd />
-            <BackEnd />
-            <Technology />
+          <BackEnd />
+          <Technologies />
+          <Pega />
+          <AWS />
         </div>
     </section>
   )

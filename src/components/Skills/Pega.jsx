@@ -1,15 +1,15 @@
 import React from "react";
 
-function Technology() {
+function Pega() {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Techonologies</h3>
+      <h3 className="skills__title">PEGA BPM</h3>
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">PEGA(PSAC)</h3>
+              <h3 className="skills__name">Pega PRPC</h3>
               <span className="skills__level">Advance</span>
             </div>
           </div>
@@ -17,7 +17,7 @@ function Technology() {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Kafka</h3>
+              <h3 className="skills__name">Decisioning</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -25,8 +25,8 @@ function Technology() {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Kibana</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Activity</h3>
+              <span className="skills__level">Advance</span>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@ function Technology() {
         <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">GitHub</h3>
+              <h3 className="skills__name">Flows</h3>
               <span className="skills__level">Advance</span>
             </div>
           </div>
@@ -44,15 +44,15 @@ function Technology() {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">PostMan</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Data Transforms</h3>
+              <span className="skills__level">Advance</span>
             </div>
           </div>
 
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">AWS</h3>
+              <h3 className="skills__name">Case Managment</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -62,4 +62,4 @@ function Technology() {
   );
 }
 
-export default Technology;
+export default Pega;

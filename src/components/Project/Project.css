@@ -2,7 +2,7 @@
     grid-template-columns: repeat(2, max-content);
     column-gap: 1.8rem;
     justify-content: center;
-    padding: .1rem 1rem;
+    padding: .0rem 1rem;
     max-width: 968px;
     margin-left: auto;
     margin-right: auto;
@@ -172,7 +172,7 @@
         grid-template-columns: repeat(2, max-content);
         column-gap: 1.8rem;
         justify-content: center;
-        padding: .5rem .3rem;
+        padding: .1rem .3rem;
         max-width: 968px;
         margin-left: auto;
         margin-right: auto;

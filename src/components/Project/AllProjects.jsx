@@ -42,7 +42,6 @@ function AllProjects() {
         ]
       };
 
-
   return (
     
     <div className="container">
