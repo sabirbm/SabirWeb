@@ -103,7 +103,7 @@ function Qualification() {
                         </div>
                         <div>
                             <h3 className="qualification__title">Full Stack Developer</h3>
-                            <span className="qualification__subtitle">Elgocart - India</span>
+                            <span className="qualification__subtitle">Elgocart Pvt.Ltd - India</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i>2022 - 2023
                             </div>
