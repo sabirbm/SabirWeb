@@ -221,7 +221,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I develop Applications using PEGA, CassandraDB, Kafka, PostMan. 
+                    I develop Applications using PEGA, CassandraDB, Kafka, and PostMan. 
                   </p>
                 </li>
 
