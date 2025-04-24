@@ -17,7 +17,8 @@ function Services() {
         <div className="services__content">
           <div>
             <i className="uil uil-web-grid services__icon"></i>
-            <h3 className="services__title">Product <br/> Designer</h3>
+            <h3 className="services__title">Full Stack Development &<br/>Agile Delivery
+            </h3>
           </div>
           <span className="services__button" onClick={()=>{
             toggleTab(1)}}>
@@ -29,9 +30,9 @@ function Services() {
           <div className= {toggleState === 1 ? "services__modal active-modal" : "services__modal"}>
             <div className="services__modal-content">
               <i className="uil uil-times services__modal-close" onClick={()=>{toggleTab(0)}}></i>
-              <h3 className="services__modal-title">Product Designer</h3>
+              <h3 className="services__modal-title">Full Stack Development & Agile Delivery</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experiance. Providing Quality
+                Service with more than 2.5 years of experiance. Providing Quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">
@@ -41,7 +42,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                  Design and development of scalable backend systems using Java, Spring Boot, and REST/SOAP APIs.
                   </p>
                 </li>
 
@@ -50,7 +51,7 @@ function Services() {
                     className="uil uil-check-circle 
                                 services__modal-icon"
                   ></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">Frontend development using ReactJS, JavaScript, HTML, and CSS for responsive and dynamic UIs.</p>
                 </li>
 
                 <li className="services__modal-service">
@@ -59,17 +60,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I create UX elements intractions.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i
-                    className="uil uil-check-circle 
-                                services__modal-icon"
-                  ></i>
-                  <p className="services__modal-info">
-                    I position your company brand.
+                  Integration with databases like MySQL, PostgreSQL, Oracle, and Cassandra.
                   </p>
                 </li>
 
@@ -79,7 +70,17 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies.
+                  Working in Agile/Scrum environments, participating in sprints, reviews, and retrospectives.
+                  </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i
+                    className="uil uil-check-circle 
+                                services__modal-icon"
+                  ></i>
+                  <p className="services__modal-info">
+                  Cross-functional collaboration with DevOps, QA, and business teams.
                   </p>
                 </li>
               </ul>
@@ -90,7 +91,7 @@ function Services() {
         <div className="services__content">
           <div>
             <i className="uil uil-arrow services__icon"></i>
-            <h3 className="services__title">MERN Stack <br/> Developer</h3>
+            <h3 className="services__title">PEGA PRPC &<br/> Decisioning Services</h3>
           </div>
           <span className="services__button" onClick={()=>{
             toggleTab(2)}}>
@@ -104,9 +105,9 @@ function Services() {
           <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
             <div className="services__modal-content">
               <i className="uil uil-times services__modal-close" onClick={()=>{toggleTab(0)}}></i>
-              <h3 className="services__modal-title">MERN Stack Developer</h3>
+              <h3 className="services__modal-title">PEGA PRPC & Decisioning Services</h3>
               <p className="services__modal-description">
-                Service with more than 15 months of experiance. Providing Quality
+                Service with more than 2.5 years of experiance. Providing Quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">
@@ -116,7 +117,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I develop the user interface using ReactJS.
+                  Development of end-to-end Pega applications using PRPC, CDH, and Decisioning.
                   </p>
                 </li>
 
@@ -125,7 +126,7 @@ function Services() {
                     className="uil uil-check-circle 
                                 services__modal-icon"
                   ></i>
-                  <p className="services__modal-info">Web page development using MERN full.</p>
+                  <p className="services__modal-info">Creation of reusable components: Flows, Data Transforms, Decision Tables, Activities, SLAs, Data Page, Report Definition and DSS.</p>
                 </li>
 
                 <li className="services__modal-service">
@@ -134,7 +135,17 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I create UX elements intractions.
+                  Integrated REST/SOAP APIs with external systems in Pega using Connectors, Services, and tested them using Postman for seamless data exchange.
+                  </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i
+                    className="uil uil-check-circle 
+                                services__modal-icon"
+                  ></i>
+                  <p className="services__modal-info"> 
+                  System debugging and issue resolution using Clipboard, Tracer, and Live UI.
                   </p>
                 </li>
 
@@ -144,17 +155,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I position your company brand.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i
-                    className="uil uil-check-circle 
-                                services__modal-icon"
-                  ></i>
-                  <p className="services__modal-info">
-                    Design and mockups of products for companies.
+                  Implemented real-time decisioning using Pega CDH and configured SLAs to ensure timely case resolution and enhance customer experience.
                   </p>
                 </li>
               </ul>
@@ -165,13 +166,13 @@ function Services() {
         <div className="services__content">
           <div>
             <i className="uil uil-edit services__icon"></i>
-            <h3 className="services__title">PEGA <br/> Developer</h3>
+            <h3 className="services__title">API Integration, Automation &<br/>Cloud Engineering</h3>
           </div>
           <span className="services__button" onClick={()=>{
             toggleTab(3)}}>
             View More
             <i
-              className="uil uil-arrow-right 
+              className="uil uil-arrow-right .
                 services__button-icon"
             ></i>
           </span>
@@ -179,9 +180,9 @@ function Services() {
           <div className={toggleState === 3 ? "services__modal active-modal" : "services__modal"}>
             <div className="services__modal-content">
               <i className="uil uil-times services__modal-close" onClick={()=>{toggleTab()}}></i>
-              <h3 className="services__modal-title">PEGA Developer</h3>
+              <h3 className="services__modal-title">API Integration, Automation & AWS Cloud Engineering</h3>
               <p className="services__modal-description">
-                Service with more than 1 years of experiance in PEGA. Providing Quality
+                Service with more than 2.5 years of experiance in PEGA. Providing Quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">
@@ -191,7 +192,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    System Architect Certified.
+                  Deployment and management of applications on AWS using EC2, S3, IAM, Lambda, CloudWatch, and VPC
                   </p>
                 </li>
 
@@ -200,7 +201,8 @@ function Services() {
                     className="uil uil-check-circle 
                                 services__modal-icon"
                   ></i>
-                  <p className="services__modal-info">I develop the business flows using pega.</p>
+                  <p className="services__modal-info">
+                  Implemented Infrastructure as Code (IaC) using AWS CloudFormation and optimized system performance through monitoring with CloudWatch.</p>
                 </li>
 
                 <li className="services__modal-service">
@@ -209,7 +211,7 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I create UX elements intractions.
+                  Automated deployments and release management using Git, Jenkins, and CI/CD pipelines.
                   </p>
                 </li>
 
@@ -229,13 +231,14 @@ function Services() {
                                 services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    Design E2E management in PEGA.
+                  Building and consuming REST/SOAP APIs.
                   </p>
                 </li>
               </ul>
             </div>
           </div>
         </div>
+        
       </div>
     </section>
   );
