@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SabirWeb/static/css/main.d5ba564e.css",
-    "main.js": "/SabirWeb/static/js/main.82aa1940.js",
+    "main.css": "/SabirWeb/static/css/main.49f3c7e2.css",
+    "main.js": "/SabirWeb/static/js/main.582a5c7d.js",
     "static/js/453.af27842d.chunk.js": "/SabirWeb/static/js/453.af27842d.chunk.js",
     "static/media/profile.jpeg": "/SabirWeb/static/media/profile.11971130331905955317.jpeg",
     "static/media/about.jpg": "/SabirWeb/static/media/about.bafac0f11f5477949353.jpg",
     "static/media/Sabir_JavaDeveloper.pdf": "/SabirWeb/static/media/Sabir_JavaDeveloper.6a75714670e6b1bde7c8.pdf",
+    "static/media/Logo.PNG": "/SabirWeb/static/media/Logo.acaeb831ae26c1d59f83.PNG",
     "static/media/testimonial3.png": "/SabirWeb/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/Logo.PNG": "/SabirWeb/static/media/Logo.0b66f07e16c55af244a1.PNG",
     "static/media/testimonial2.png": "/SabirWeb/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/SabirWeb/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "static/media/slick.svg": "/SabirWeb/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -15,12 +15,12 @@
     "static/media/slick.ttf": "/SabirWeb/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/SabirWeb/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SabirWeb/index.html",
-    "main.d5ba564e.css.map": "/SabirWeb/static/css/main.d5ba564e.css.map",
-    "main.82aa1940.js.map": "/SabirWeb/static/js/main.82aa1940.js.map",
+    "main.49f3c7e2.css.map": "/SabirWeb/static/css/main.49f3c7e2.css.map",
+    "main.582a5c7d.js.map": "/SabirWeb/static/js/main.582a5c7d.js.map",
     "453.af27842d.chunk.js.map": "/SabirWeb/static/js/453.af27842d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5ba564e.css",
-    "static/js/main.82aa1940.js"
+    "static/css/main.49f3c7e2.css",
+    "static/js/main.582a5c7d.js"
   ]
 }
