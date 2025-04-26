@@ -14,7 +14,7 @@ function About() {
         <div className="about__data">
           <Innfo />
           <p className="about__description">
-          Full Stack Developer with 2.5 years of experience in Java, Spring Boot, ReactJS, MySQL, and AWS. Built and deployed
+          Full Stack Developer with 2.5 years of experience in Java, Spring Boot, ReactJS, MySQL, PEGA PRPC, and AWS. Built and deployed
           scalable solutions for a leading telecom client (Verizon, Cognizant, Lattech).Strong team collaborator with experience mentoring junior developers and working across QA, 
             DevOps, and business teams.<br></br>Driven by the opportunity to contribute to projects that make a meaningful impact.
           </p>
