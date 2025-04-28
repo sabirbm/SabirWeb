@@ -11,7 +11,7 @@ function Services() {
   return (
     <section className="services section" id="services">
       <h2 className="section__title">Services</h2>
-      <span className="section__subtitle">What i offer</span>
+      <span className="section__subtitle">Areas of Expertise</span>
       <div className="services__container container grid">
 
         <div className="services__content">
