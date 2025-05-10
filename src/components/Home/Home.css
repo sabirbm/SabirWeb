@@ -20,6 +20,10 @@
     font-size: 1.5rem;
     color: var(--title-color);
 }
+.visits{
+    font-size: .8rem;
+    color: var(--title-color);
+}
 .home__social-icon:hover{
     color: var(--title-color-dark);
 }

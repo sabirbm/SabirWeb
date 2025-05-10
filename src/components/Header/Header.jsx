@@ -16,6 +16,8 @@ function Header() {
   return (
     <header className="header">
       <nav className="nav container">
+
+        
         <a href="index.html" className="nav__logo">
           <img src={LogoImg} alt="" className="Logo__img" />
         </a>
