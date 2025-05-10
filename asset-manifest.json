@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SabirWeb/static/css/main.dd76276c.css",
-    "main.js": "/SabirWeb/static/js/main.a53fd497.js",
+    "main.js": "/SabirWeb/static/js/main.345b6dc0.js",
     "static/js/453.af27842d.chunk.js": "/SabirWeb/static/js/453.af27842d.chunk.js",
     "static/media/profile.jpeg": "/SabirWeb/static/media/profile.11971130331905955317.jpeg",
     "static/media/about.jpg": "/SabirWeb/static/media/about.bafac0f11f5477949353.jpg",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/SabirWeb/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SabirWeb/index.html",
     "main.dd76276c.css.map": "/SabirWeb/static/css/main.dd76276c.css.map",
-    "main.a53fd497.js.map": "/SabirWeb/static/js/main.a53fd497.js.map",
+    "main.345b6dc0.js.map": "/SabirWeb/static/js/main.345b6dc0.js.map",
     "453.af27842d.chunk.js.map": "/SabirWeb/static/js/453.af27842d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd76276c.css",
-    "static/js/main.a53fd497.js"
+    "static/js/main.345b6dc0.js"
   ]
 }
