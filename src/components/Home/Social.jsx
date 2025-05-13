@@ -14,7 +14,7 @@ function Social() {
             <i className="uil uil-instagram"></i>
         </a>
         <div className="visits">
-           <VisitorCounter />
+           {/* <VisitorCounter /> */}
         </div>    
        
         
