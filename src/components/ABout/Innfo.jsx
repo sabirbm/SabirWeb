@@ -8,7 +8,7 @@ function Innfo() {
             <i className='bx bx-award about__icon'></i>
 
             <h3 className="about__title">Experiance</h3>
-            <span className="about__subtitle">2.8 Years Working</span>
+            <span className="about__subtitle">3 Years Working</span>
         </div>
 
         <div className="about__box">
